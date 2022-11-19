@@ -3,7 +3,7 @@
 # Goal
 In this project we'll make a smart powerstrip controlled by webpage and integrated with Alexa and Google Assistant.
 
-# Component used:
+# Components used:
 - Arduino Uno Board
 - DFRobot Relay Shield 2.1
 - Ethernet Shield
